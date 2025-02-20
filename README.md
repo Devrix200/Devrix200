@@ -15,10 +15,6 @@ I'm a passionate **Full-Stack Developer** with expertise in the **MERN Stack** (
 ## 📊 GitHub Stats
 ![Devrix200's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devrix200&show_icons=true&theme=radical)
 
-## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/devrix200)
-- 🐦 [Twitter](https://twitter.com/devrix200)
-- 📧 Email: devrix200@example.com
 
 ### 🔥 Fun Fact
 I love debugging more than coding! 🐛😄
