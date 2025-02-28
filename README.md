@@ -19,6 +19,4 @@ I'm a passionate **Full-Stack Developer** with expertise in the **MERN Stack** (
 ### 🔥 Fun Fact
 I love debugging more than coding! 🐛😄
 
----
-⭐️ Feel free to check out my repositories and contribute! 🚀
 
